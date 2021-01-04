@@ -1,1 +1,7 @@
-# Unturned-RocketMod-Loader-Uploader
+# Nedir bu?
+
+Daha önceden paylaşmış olduğum eklenti yükleyicisinin bir programı diyebiliriz, programın olayı lisans oluşturmak.
+
+## Lisans
+
+Programda MIT lisansı var, rahat olun istediğiniz gibi kullanabilirsiniz^^ :)
